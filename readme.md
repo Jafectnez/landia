@@ -1,3 +1,3 @@
-#Frikiserver
+### Frikiserver
 
 Mods y configuraciones
